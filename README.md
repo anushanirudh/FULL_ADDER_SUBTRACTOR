@@ -44,12 +44,50 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
+
+Developed by: R Anirudh
+
+RegisterNumber: 212223230016
 */
+
+**Full Adder**
+
+![Screenshot 2024-04-28 142613](https://github.com/anushanirudh/FULL_ADDER_SUBTRACTOR/assets/151725737/7ed1efc2-cd0c-4eec-b26f-33c05a9f5218)
+
 
 **RTL Schematic**
 
+![Screenshot 2024-04-28 142711](https://github.com/anushanirudh/FULL_ADDER_SUBTRACTOR/assets/151725737/8fb4e095-0903-4ed5-9229-172842cf0801)
+
+**Truth Table**
+
+![Screenshot 2024-04-28 142759](https://github.com/anushanirudh/FULL_ADDER_SUBTRACTOR/assets/151725737/eeffb2b5-3aea-4f74-b26a-1e26dc5b76a6)
+
+
 **Output Timing Waveform**
+
+![Screenshot 2024-04-28 142826](https://github.com/anushanirudh/FULL_ADDER_SUBTRACTOR/assets/151725737/0345d906-98d5-410d-bfc9-4f95715b341d)
+
+**Full Subtractor**
+
+**Progarm**
+
+![Screenshot 2024-04-28 142943](https://github.com/anushanirudh/FULL_ADDER_SUBTRACTOR/assets/151725737/b42dc354-a476-4405-a246-5f92f276e797)
+
+**RTL Schematic**
+
+![Screenshot 2024-04-28 143334](https://github.com/anushanirudh/FULL_ADDER_SUBTRACTOR/assets/151725737/4a417992-dcbd-4cdf-a9a9-ce8f639ca794)
+
+
+**Truth Table**
+
+![Screenshot 2024-04-28 143145](https://github.com/anushanirudh/FULL_ADDER_SUBTRACTOR/assets/151725737/c05828e8-5392-4270-a0c1-7de2cf6c3af8)
+
+**Output Timing Waveform**
+
+![Screenshot 2024-04-28 143214](https://github.com/anushanirudh/FULL_ADDER_SUBTRACTOR/assets/151725737/02b95b9e-9c94-49bf-9074-2efe8d6dc1c1)
+
 
 **Result:**
 
